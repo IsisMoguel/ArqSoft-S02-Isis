@@ -1,3 +1,3 @@
 # Ahorcado
 
-FEAT: Juego ahorcado base (clase Dios), actualización del README
+Test del profe
