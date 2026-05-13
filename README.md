@@ -1,3 +1,3 @@
 # **Ahorcado**
 
-REFACTOR: Se agrego la clase MotorAhorcado, el cual administra el funcionamiento del juego sin saber como mostrarlo en pantalla.
+REFACTOR: Nueva clase, ConsultaUI, la cual utiliza MotorAhorcado para manejar lo que se va a mostrar al usuario.
