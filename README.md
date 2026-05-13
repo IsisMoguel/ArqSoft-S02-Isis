@@ -1,3 +1,3 @@
 # **Ahorcado**
 
-REFACTOR: Nueva clase, ConsultaUI, la cual utiliza MotorAhorcado para manejar lo que se va a mostrar al usuario.
+REFACTOR: Se actualizó la clase Programa aplicando correctamente las clases necesarias mediante sus metodos, al igual que se elimina la clase Dios, Juego.
