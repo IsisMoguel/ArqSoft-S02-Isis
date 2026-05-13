@@ -10,3 +10,7 @@ En base a los principios SOLID, en esta primera etapa del juego, se pueden obser
 
 - **O** - Open/Closed Principle
 
+    Se puede observar el manejo de IF para las acciones del juego, en caso de que se requiera agregar más funciones para mostrar en el juego, habría que modificar mucho el código, lo cual no es lo ideal, en su lugar se deberían crear clases especificas para cada uno, y luego llamarlas mediante metodos.
+
+En este proyecto, se observan estos dos principios que impiden que el juego sea escalable.
+
