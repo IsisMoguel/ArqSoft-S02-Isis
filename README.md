@@ -1,3 +1,3 @@
 # **Ahorcado**
 
-REFACTOR: Se crearon las clases IRepositorioPalabras como una interfaz, y la clase PalabrasEnMemoria, la cual contiene las palabras que se van a utilizar en el juego, e implementa la interfaz.
+REFACTOR: Se agrego la clase MotorAhorcado, el cual administra el funcionamiento del juego sin saber como mostrarlo en pantalla.
